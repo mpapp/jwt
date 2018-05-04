@@ -4,6 +4,8 @@ Packages
 Package.pins
 Package.resolved
 
+Carthage/Build
+
 ### Xcode-related ignores below ###
 
 ## Various settings
